@@ -1,0 +1,32 @@
+CIS 40 - Class exercise 7
+
+In a script:
+1. Write a Python statement to print 1 - 12
+
+2. Write Python statements to count down from 10 to 0, 
+   and then print "blast off"
+
+3. Write a function that sums up all values from 1 to n, 
+   where n is an input argument. The function returns the total.
+   Call the function and pass 10 for n, then print the total.
+
+4. Here is the function to draw a triangle:
+
+# drawTriangle
+def drawTriangle(t, length, color):
+    ''' draw a triangle of specified length and color'''
+    t.color(color)
+    t.left(360 / 3)
+    t.forward(length)
+    t.left(360 / 3)
+    t.forward(length)
+    t.left(360 / 3)
+    t.forward(length)
+
+Can you make it shorter to type?
+Test the new drawTriangle function
+
+5. Modify the drawTriangle function into a drawPentagon function
+Test the drawPentagon function
+
+

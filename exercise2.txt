@@ -1,0 +1,20 @@
+CIS 40 - Class exercise 2
+
+1. Open IDLE from the classroom computer
+
+2. At the shell, write a Python statement to print "Hello world!" on one line
+   and then print "this is <your name>" on the next line
+
+3. Write a Python statement to add: 5 + 3
+   Does it matter if there is no space or multiple spaces in  5 + 3?
+
+4. Does it matter if there is no space or multiple spaces in the print statement?
+   print("hi there")   or    print     (   "   hi    there    "   )
+   Which space shows up on screen?
+
+5. Create a new Python script called exercise2, use the correct filename extension
+   for Python programs.
+
+6. Add in the 2 Python statements of step 2
+
+7. Run the exercise2 script to see the output.

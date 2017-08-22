@@ -1,0 +1,48 @@
+CIS 40 - Class exercise 4 solution
+
+1. Consider this Python statement:   print("hello world")
+   What is the name of the function?
+	print
+   What is the input to the function? What data type is the input? How many input?
+	input:  "hello world"
+	type: a string
+	number of input: 1
+   Is there an output that is saved in a variable?
+	No output going to a variable since there is no = operator
+
+2. Consider this Python statement:    root = findRoot(25.0, 2, .001)
+   Is this a function call or a function definition?
+	function call
+   What is the name of the function?
+	findRoot
+   What is the input to the function? What data type is the input? How many input?
+	input: 25.0, 2, .0013
+	type: 1 float, 1 int, 1 float
+	number of input: 3
+   Is there an output that is saved in a variable?
+	the output is saved into a variable called root 
+ 
+3. Write a Python statement that creates a string: "15 / 3 = 5"  where the 5 is calculated
+   by the computer.
+	>>> outputStr = "15 / 3 = " + str(int(15/3))
+
+4. Write a Python statement that prints the result of 125/8 to 3 digits after the decimal point.
+	>>> round(125/8, 3)
+
+5. Write a Python statement that prints the number of characters in the string
+   "Python programming class"
+	>>> len("Python programming class")
+
+6. Write a script that has:
+    - a function definition, maxAndMin, that asks the user for 3 numbers
+       and prints the minimum and maximum numbers
+	
+    - code to call the function maxAndMin
+
+    - a function definition, calcProduct, that accepts 2 numbers as input 
+      and returns the product of the 3 numbers
+
+    - code to set 2 variables to 5 and 8
+    - code to call the function calcProduct and passes to it the 2 variables, and then prints the product
+
+   See exercise4.py

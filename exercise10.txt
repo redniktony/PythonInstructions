@@ -1,0 +1,36 @@
+CIS 40 - Class exercise 10
+
+In a script, creat a Circle class with the following attributes:
+  - size
+  - x, y location
+  - color
+  - a turtle object
+and the following methods:
+  __init__, which accepts a size as input, and initializes all attributes
+ 
+  __str__, which returns a string "color circle"  where color is the color 
+      	of the circle
+
+  draw, which draws a circle with the size, color attributes
+        and at the x,y location attribute
+
+  fill, which accepts a turtle object, and draws a circle just like the draw
+	method, but the circle is filled
+
+  setPosition, which accepts the x,y coordinate and sets them as object attributes
+
+  setColor, which accepts a color and sets it as the object attribute
+
+
+Write the driver code to:
+- create a Circle object with size 40
+- set the object's position to 50, 50
+- set the object's color to red
+- draw a filled circle
+- print the object description
+
+- set the object's position to 0,0
+- set the object's color to blue
+- draw an unfilled circle
+
+	

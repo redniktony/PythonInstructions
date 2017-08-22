@@ -1,0 +1,47 @@
+CIS 40 - Class exercise 6
+
+At the shell:
+1. Create variables num1 to store 5, and variable num2 to store -3
+
+2. Write a Python boolean expression that returns True if num1 is less than or equal to num2
+
+3. Write a Python boolean expression that returns True if num2 is a negative number
+
+4. Write a Python boolean expression that returns True if both num1 and num2 are positive
+
+5. Write a Python boolean expression that returns True if either num1 or num2 is positive
+
+
+In a script:
+1. Download the exercise6.py file. This is the same file as exercise5Solution.py but
+   without the driver code.
+
+2. Write a Python function called getRadius that:
+   - prompts the user for a radius of a circle and reads in the radius
+   - prints an error message if the radius is not between 1 and 150, inclusive
+   - returns: the radius if the radius is between 1 and 150 inclusive
+              -1 if the radius is outside this range
+   
+3. Write driver code to:
+   - call the getRadius() function
+   - check the return value of getRadius() and if it's valid,
+       - call drawCircle() with a radius that the user specifies and a color of your choice
+
+4. Write a Python function called getColor that:
+   - prompts the user for a color of red, green, or blue
+   - prints an error message if the color is not valid (not 1 of the 3 above)
+   - returns: the color if it's a valid choice
+              "unknown" if the color is not valid
+
+5. Add to the driver code so that it does the following:
+   - call the getRadius() function
+   - check the return value of getRadius() and if the radius is valid,
+      	- call the getColor() function
+     	- check the return value of getColor() and if the color is valid,
+   	  	- draw a circle with a radius and color that the user specifies 
+      	- if the color is not valid,
+          	- print an error message
+   - if the radius is not valid
+      	- print an error message
+
+

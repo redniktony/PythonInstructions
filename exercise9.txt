@@ -1,0 +1,70 @@
+CIS 40 - Class exercise 9
+
+At the shell:
+1. Create a list called L1 with the value 'x', 'y', 'z'
+   Print L1 
+   Show the type of L1
+
+
+2. Create a list called L2 with the values 10 - 25
+   Print L2
+   Print the first element of L2
+   Print the fifth element of L2
+   Find 2 ways to print the last element of L2
+   Find 2 ways to print the next to last element of L2
+	
+
+3. Print L1 and L2 together as one list
+   Does L1 or L2 change? 
+   Create L3, which is L1 and L2 combined together as one list
+   Find 2 ways to append L1 to L2, so L2 has elements of L2 followed
+   by elements of L1 
+
+
+4. Print L3
+   For L3, print elements at index 5 to 9
+   For L3, print all elements except the first 4
+   For L3, print the first 4 elements
+   For L3, print all elements except the last 4
+   For L3, print the last 4 elements
+   Does L3 change?
+
+
+5. Print L1
+   Append 'end' to L1
+   Add 'start' to the beginning of L1
+   Add 'middle' to the middle of L1
+   What happens if we run:  L1.extend('final')
+   Does L1 change?
+
+
+6. Print L2
+   Remove the first element of L2
+   Find 2 ways to remove the last element of L2
+   Remove the 5th element of L2
+   Remove the element 'x'
+   Remove the element 'z'
+   Does L2 change?
+
+
+7. Print L1
+   copy L1 to L1Copy
+   sort L1
+   Does L1 change?
+   Does L1Copy change?
+	
+   
+8. Print L3
+   Check if 22 is in L3
+   Check if 28 is in L3
+   Check the index of 22
+   Check the index of 28
+
+
+9. Print L1
+   Remove all but the last 3 elements of L1
+   Convert L1 into a string with value 'xyz'
+   Create a string called myStr with the data "lists are fun"
+   Convert myStr into a list L4
+   Review: "split" the first word to print each character on one line
+ 

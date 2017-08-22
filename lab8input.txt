@@ -1,0 +1,72 @@
+CIS-002.-63Z	Computers and the Internet in Society	ONLINE
+CIS-003.-01Y	Business Information Systems 	01:30 PM-03:20 PM MW
+CIS-003.-03Y	Business Information Systems 	11:30 AM-01:20 PM MW
+CIS-003.-04Y	Business Information Systems 	11:30 AM-01:20 PM TTh
+CIS-003.-63Z	Business Information Systems 	ONLINE
+CIS-003.-65Z	Business Information Systems 	ONLINE
+CIS-004.-01Y	Computer Literacy	01:30 PM-03:20 PM TTh
+CIS-004.-63Z	Computer Literacy	ONLINE
+CIS-004.-65Z	Computer Literacy 	ONLINE
+CIS-014A-63Z	Visual Basic .NET Programming I	ONLINE
+CIS-018A-01Y	Introduction to Unix/Linux	09:30 AM-11:20 AM MW
+CIS-018A-61Y	Introduction to Unix/Linux	06:00 PM-07:50 PM MW	
+CIS-018B-02Y	Advanced Unix/Linux	11:30 AM-12:45 PM TTh
+CIS-018B-63Z	Advanced Unix/Linux	ONLINE
+CIS-21JA-01Y	Introduction to x86 Processor Assembly Language and Computer Architecture	09:30 AM-10:45 AM TTh
+CIS-21JA-02Y	Introduction to x86 Processor Assembly Language and Computer Architecture	11:30 AM-01:20 PM TTh
+CIS-21JA-63Z	Introduction to x86 Processor Assembly Language and Computer Architecture	ONLINE
+CIS-21JA-65Z	Introduction to x86 Processor Assembly Language and Computer Architecture	ONLINE
+CIS-022A-01Y	Beginning Programming Methodologies in C++	09:30 AM-11:20 AM TTh
+CIS-022A-03Y	Beginning Programming Methodologies in C++	09:30 AM-11:20 AM MW
+CIS-022A-04Y	Beginning Programming Methodologies in C++	01:30 PM-03:20 PM TTh
+CIS-022A-05Y	Beginning Programming Methodologies in C++	03:30 PM-05:20 PM MW
+CIS-022A-06Y	Beginning Programming Methodologies in C++	11:30 AM-01:20 PM MW
+CIS-022A-07Y	Beginning Programming Methodologies in C++	03:30 PM-05:20 PM TTh
+CIS-022A-08Y	Beginning Programming Methodologies in C++	08:30 AM-09:20 AM MTWTh
+CIS-022A-61Y	Beginning Programming Methodologies in C++	06:00 PM-07:50 PM TTh
+CIS-022A-62Y	Beginning Programming Methodologies in C++	08:00 PM-09:50 PM MW
+CIS-022A-63Y	Beginning Programming Methodologies in C++	06:00 PM-07:50 PM MW
+CIS-022A-63Z	Beginning Programming Methodologies in C++	ONLINE
+CIS-022B-01Y	Intermediate Programming Methodologies in C++	09:30 AM-11:20 AM MW
+CIS-022B-02Y	Intermediate Programming Methodologies in C++	01:30 PM-03:20 PM TTh
+CIS-022B-03Y	Intermediate Programming Methodologies in C++	03:30 PM-05:20 PM TTh
+CIS-022B-04Y	Intermediate Programming Methodologies in C++	11:30 AM-01:20 PM MW
+CIS-022B-06Y	Intermediate Programming Methodologies in C++	01:30 PM-03:20 PM MW
+CIS-022B-61Y	Intermediate Programming Methodologies in C++	06:00 PM-07:50 PM TTh
+CIS-022B-62Y	Intermediate Programming Methodologies in C++	06:00 PM-07:50 PM MW
+CIS-022B-63Z	Intermediate Programming Methodologies in C++	ONLINE
+CIS-022C-01Y	Data Abstraction and Structures	01:30 PM-03:20 PM MW
+CIS-022C-02Y	Data Abstraction and Structures	01:30 PM-03:20 PM MW
+CIS-022C-03Y	Data Abstraction and Structures	09:30 AM-11:20 AM TTh
+CIS-022C-04Y	Data Abstraction and Structures	03:30 PM-05:20 PM MW
+CIS-022C-61Y	Data Abstraction and Structures	06:00 PM-07:50 PM TTh
+CIS-026B-61Y	Advanced C Programming	06:00 PM-07:50 PM TTh
+CIS-028.-61Y	Object Oriented Analysis and Design	08:00 PM-09:50 PM MW
+CIS-031.-63Z	Operating System Concepts	ONLINE
+CIS-035A-61Y	Java Programming	06:00 PM-07:50 PM MW
+CIS-035A-63Y	Java Programming	08:00 PM-09:50 PM TTh
+CIS-035A-63Z	Java Programming	ONLINE
+CIS-035B-62Y	Advanced Java Programming	08:00 PM-09:50 PM MW	
+CIS-036A-01Y	Introduction to Computer Programming Using Java	11:30 AM-01:20 PM TTh
+CIS-036A-63Y	Introduction to Computer Programming Using Java	06:00 PM-07:50 PM MW
+CIS-036B-01Y	Intermediate Problem Solving in Java	03:30 PM-05:20 PM MW
+CIS-040.-01Y	Introduction to Programming in Python	08:30 AM-09:20 AM MTWTh
+CIS-040.-63Y	Introduction to Programming in Python	06:00 PM-07:50 PM MW
+CIS-041A-61Y	Python Programming	06:00 PM-07:50 PM MW
+CIS-055.-61Y	iOS Development	06:00 PM-07:50 PM MW
+CIS-056.-63Y	Network Security	08:00 PM-09:50 PM TTh
+CIS-064B-63Z	Introduction to SQL	ONLINE
+CIS-064F-63Z	Introduction to Big Data and Analytics	ONLINE
+CIS-066.-63Z	Introduction to Data Communication and Networking	ONLINE
+CIS-067A-63Z	Local Area Networks	ONLINE
+CIS-074.-63Z	Computer Software Quality Assurance	ONLINE
+CIS-075D-63Z	Enterprise Security Policy Management	ONLINE
+CIS-089A-63Z	Web Page Development	ONLINE	
+CIS-095A-55L	Project Management	08:30 AM-06:20 PM SU
+CIS-095B-55L	Project Planning and Control	09:30 AM-05:20 PM SU
+CIS-095G-55L	Agile Project Management	09:30 AM-05:20 PM SU
+CIS-097.-63Z	FLASH Animation	ONLINE
+CIS-099.-61Y	Office Software Applications	08:00 PM-09:50 PM MW
+CIS-099.-63Z	Office Software Applications	ONLINE
+CIS-102.-63Z	Ethical Hacking	ONLINE
+CIS-108.-63Z	Personal Computer Security Basics	ONLINE

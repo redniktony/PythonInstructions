@@ -1,0 +1,7 @@
+print ("CIS 40 - Assignment 2")
+print ("Yanxi Zheng")
+print ("One of my favorite songs is Starships")        
+print ("     Starship were meant to fly")
+print ("     Hands up and touch the sky")
+print ("     Can't stop cuz we're so high")
+print ("     Let's do it one more time")  

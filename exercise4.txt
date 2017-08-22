@@ -1,0 +1,32 @@
+CIS 40 - Class exercise 4
+
+1. Consider this Python statement:   print("hello world")
+   What is the name of the function?
+   What is the input to the function? What data type is the input? How many input?
+   Is there an output that is saved in a variable?
+
+2. Consider this Python statement:    root = findRoot(25.0, 2, .001)
+   Is this a function call or a function definition?
+   What is the name of the function?
+   What is the input to the function? What data type is the input? How many input?
+   Is there an output that is saved in a variable?
+ 
+3. Write a Python statement that creates a string: "15 / 3 = 5"  where the 5 is calculated
+   by the computer.
+
+4. Write a Python statement that prints the result of 125/8 to 3 digits after the decimal point.
+
+5. Write a Python statement that prints the number of characters in the string
+   "Python programming class"
+
+6. Write a script that has:
+    - a function definition, maxAndMin, that asks the user for 3 numbers
+       and prints the minimum and maximum numbers
+	
+    - code to call the function maxAndMin
+
+    - a function definition, calcProduct, that accepts 2 numbers as input 
+      and returns the product of the 3 numbers
+
+    - code to initialize 2 variables to 5 and 8
+    - code to call the function calcProduct and pass to it the 2 variables, and then prints the product

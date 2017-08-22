@@ -1,0 +1,33 @@
+CIS 40 - Class exercise 1
+
+1. You ask your friend to help you out by running an errand for you:
+	- walk to the Campus Center
+	- go to the Cafeteria
+	- pick up a sandwich
+	- get a water bottle
+	- pay for the sandwich and water
+	- take some napkins
+	- walk to the ATC building
+	- go to room AT 204
+	- hand me the sandwich and water
+
+Is the above equivalent to a program? 
+Why?
+Who has the part of the computer?
+Who has the part of the programmer?
+What language do you use to communicate with your friend?
+
+2. Does your friend do one step at a time? Can your friend do several steps at one time?
+
+3. For each step that your friend does, what would be the equivalence to the
+fetch:
+decode:
+execute:
+store:
+
+4. Name some CPUs that you're familiar with.
+
+5. What is an ASCII table?
+
+6. Go to the web site:  http://www.rapidtables.com/web/color/RGB_Color.htm
+to see how colors are translated into numbers

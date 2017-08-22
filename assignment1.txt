@@ -1,0 +1,24 @@
+CIS 40 - Assignment 1				Name ________________________________________
+
+Type in your answers in the blank space after each question.
+
+1. Other than a laptop (or desktop computer) and a cell phone, what is another device you've used that is considered a computer or has a computer inside? Explain why you chose this device.
+
+
+2. Explain how you've programmed this device by entering step-by-step instructions for it to perform a task.
+
+
+3. Look up the ASCII table and show the numeric value for your:    first initial ___       last initial ___
+
+
+View the "Why Program?" video and then answer the following questions about programming:
+4. Give 2 quotes from the video on what programming or coding is:
+a.
+b.
+
+5. The high tech entrepeneurs in the video talked about their first program: the first task that they told the computer to do for them. Name 2 of the tasks that were mentioned.
+a.
+b.
+
+6. The video discussed the fraction of programming jobs that are in the government and high tech industry, vs. the fraction of programming jobs that are in all other business sectors. Fill in the fraction:
+	_____ for government / high tech             _____ for all other industries

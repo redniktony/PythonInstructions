@@ -1,0 +1,30 @@
+CIS 40 - Class exercise 3
+
+1. Write a Python statement to print how many hours there are in a year.
+
+2. Write a Python statement that prints the quotient of 20 divided by 3.
+    Write a Python statement that prints the remainder of 20 divided by 3.
+
+3. Give an example of an int, float, and str data
+
+4. Write a Python instruction to assign 4 to the variable called "num1"
+   Write a Python instruction to assign 8.2 in a variable called "num2"
+
+   Show the data type of the variable num2.
+
+   Add the data in the 2 variables and print the sum, with a text explanation
+   such as:  The sum of 4 and 8.2 is 12.2
+
+5. Write a Python statement that prints 60 of the word "CIS" across the screen.
+
+6. Write a Python script that asks the user for 2 names, prompt for 1 name at a time.
+    Then print the names with a & in between.  
+    Example: Barnes & Noble    or    Jack & Jill
+
+7. Write a script that works as a currency converter for dollar to / from 
+   <your choice of currency>
+   - print a welcome message to explain what the script does
+   - prompt the user and read in the dollar amount
+   - print the equivalence in <your choice of currency>
+   - prompt the user and read in <your choice of currency> amount
+   - print the dollar equivalence

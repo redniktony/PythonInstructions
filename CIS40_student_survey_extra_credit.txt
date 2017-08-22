@@ -1,0 +1,107 @@
+CIS 40 - Student Survey                       No name please
+
+Please take a few minutes (8 questions) to give your opinion 
+on the class material and how the class was run.
+Your feedback is important for the improvement of the course, 
+thank you in advance.
+
+For questions with ____ in front, please put X for all sentences 
+that best describe your experience.
+
+1. Your programming experience before the course:
+_____   I've never done any programming.
+_____   I took a programming course or tried it out once.
+_____   I've taken classes or I've been programming recently.
+
+2. For this question, rank 1, 2, 3... (with 1 being the most often).
+Where do you find the most helpful material for the homework
+and exam?
+_____  class notes
+_____  book
+_____  online 
+_____  other people (classmate, friend / family ...)
+
+Suggestions to make the class notes better?
+
+                                                                               
+3. While completing class work, you refer to the class exercises:
+_____	often
+_____	sometime
+_____	not really
+
+Suggestions to make the class exercises better?
+
+
+4. Your experience with the codelab quiz:
+_____   It was alright after I got used to the questions.
+_____   It was helpful for me to practice the syntax.
+_____   It took more time to do than the assignment.
+_____   It was not very helpful, I prefer longer assignments instead.
+_____   It should be used as optional practice and students should
+           not be graded on it.
+
+Other opinion on the quiz?
+
+
+5. Your experience with the assignments:
+_____   They were fair, challenging but doable.
+_____   They were too easy, I wish there were harder questions.
+_____   They were overall too difficult, the lectures and exercises didn't
+           give me enough preparation.
+_____   I didn't have enough time in my busy schedule to do the 
+           assignments, but they seemed okay.
+_____   I liked being able to show work and fix the code if needed, so I 
+           could get full credit.
+_____   Grading was too tough.
+
+Suggestions to make the assignments a good learning tool?
+
+
+6. Your experience with the exams:
+_____   Pretty straightforward.
+_____   Too many questions, too many concepts in each exam.
+_____   Exam questions don't correspond with the class exercises or 
+            assignments.
+_____   Exams are good for showing me what my strengths / weaknesses
+            are.
+_____   Grading on exam was fair.
+_____   Grading on exams was too tough, too many points taken off.
+_____   There are too many exams, I prefer just one midterm and 
+            one final.
+_____   I prefer to take a final exam instead of doing the team project.
+
+Other opinions on the exams?
+
+
+7. The support your receive in class:
+_____   Forums were helpful.
+_____   Email was answered in a timely manner.
+_____   Email took too long or answer was not helpful.
+_____   Class lab time was too short.
+_____   Class lab time was helpful.
+_____   Wait time for the class lab time was long.
+_____   Office hour was helpful.
+_____   I didn't need any help.
+_____   I didn't know where to get help.
+
+Improvements for how to get help?
+
+
+8. Your experience in class:
+a. Overall I spent about ________ hours per week on class work 
+    outside of class time.
+b. The pace of the class was:
+    _____	A bit too fast    _____ A little slow	_____ About right
+
+c. Did the class give you a good idea of what programming and
+   software development is about?
+
+d. Did the class encourage or discourage you from more programming 
+    courses?
+
+e. Would you recommend this class for someone who's new to 
+    programming? 
+    And what advice would you give them?
+
+
+Thank you!  Please print this out and turn it in during class time.

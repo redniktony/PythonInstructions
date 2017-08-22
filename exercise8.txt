@@ -1,0 +1,28 @@
+CIS 40 - Class exercise 8
+
+In a script:
+1. Write Python code to create a file called languages.txt
+   and put in 3 languages that you speak or would like to speak.
+
+2. On your computer, click to open the file languages.txt and 
+   see the content
+
+3. Write Python code to print the 3 languages from the file
+   languages.txt
+
+4. Add one more language to the file
+   Then print from file
+
+
+5. Create 3 strings called food1, food2, food3, and store "pizza",
+   "sausage" and "veggie"
+
+6. Write code to create a string called "lunch" from 2 of the foods above
+
+7. Write code to print if one of the food1, food2, food3 is in the string lunch
+
+8. Write code to print if the letter 'z' is in the string lunch,
+   and if it is, print if it's in the first word or second word
+
+9. Write code to replace z in food3 to Z
+

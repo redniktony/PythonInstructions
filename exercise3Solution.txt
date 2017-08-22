@@ -1,0 +1,89 @@
+CIS 40 - Class exercise 3
+
+### Note: all answers that start with >>>   means that the statement is
+### entered at the shell prompt
+
+1. Write a Python statement to print how many hours there are in a year.
+    >>> 24 * 365
+
+2. Write a Python statement that prints the quotient of 20 divided by 3.
+    Write a Python statement that prints the remainder of 20 divided by 3.
+    >>> 20 / 3               ## note that the result is a float (only for division)
+   
+    We tried in class:
+    >>> 4 / 2                 ## result is 2.0
+
+    >>> 20 % 3              ## use % to get remainder
+
+3. Give an example of an int, float, and str data
+    int:  5
+    float:  3.14
+    str: "hello"
+
+4. Write a Python instruction to assign 4 to the variable called "num1"
+   Write a Python instruction to assign 8.2 in a variable called "num2"
+   >>> num1 = 4
+   >>> num2 = 8.2
+
+   Show the data type of the variable num2.
+   >>> type(num2)
+
+   Add the data in the 2 variables and print the sum, with a text explanation
+   such as:  The sum of 4 and 8.2 is 12.2
+   >>> print ("The sum of", num1 , "and", num2, "is", num1 + num2)
+
+   ## print can accept a list of items to print.
+   ## In the case above, the list is made up of:
+   ##   string, variable, string, variable, expression
+
+   ## Also note that if we had written the print statement as:
+   >>> print ("The sum of num1 and num2 is num1 + num2")  
+   ## Then we would just get a text string as an output:
+             The sum of num1 and num2 is num1 + num2
+   ## To get Python to tell the CPU to fetch the data in a variable 
+   ## to print, the variable name needs to be outside of the quotes.
+   ##  Likewise, to get Python to tell the CPU to add num1 and num2,
+   ##  the expression  num1+num2  has to be outside of the quotes.
+
+
+5. Write a Python statement that prints 25 of the word "CIS" across the screen.
+   >>> "CIS" * 25
+
+6. Write a Python script that asks the user for 2 names, prompt for 1 name at a time.
+    Then print the names with a & in between.  
+    Example: Barnes & Noble    or    Jack & Jill
+
+   script:
+
+# This script asks the user for 2 names and prints them with & in between
+
+n1 = input("Enter first name: ")
+n2 = input("Enter second name: ")
+print(n1, "&", n2)
+
+
+7. Write a script that works as a currency converter for dollar to / from 
+   <your choice of currency>
+   - print a welcome message to explain what the script does
+   - prompt the user and read in the dollar amount
+   - print the equivalence in <your choice of currency>
+   - prompt the user and read in <your choice of currency> amount
+   - print the dollar equivalence
+
+    script:
+
+# This script converts dollars from/to euros
+
+# 1. convert from dollars to euros
+dollars = float(input("Enter dollar amount: "))
+      ## note that we needd to convert the user input into a float
+
+euro = dollars * 0.95
+print(dollars, "dollars =", euro, "euros")
+
+# 2. convert from euros to dollars
+euros= float(input("Enter euro amount: "))
+     ## same here, convert the user input into a float
+
+dollars = euros / 0.95
+print(euros, "euros =", dollars, "dollars")

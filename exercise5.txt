@@ -1,0 +1,28 @@
+CIS 40 - Class exercise 5
+
+In a script:
+1. Write a Python function called drawCircle that:
+   - accepts 3 arguments: a turtle object, a radius, and a color (a string)
+   - uses the turtle to draw a circle with the specified radius and in the specified color
+
+1a. Write test code to go to the first quadrant and draw a blue circle of size 50
+
+2. Write a Python function called fillCircle that:
+   - accepts 4 arguments: a turtle object, a radius, a border color, and a fill color 
+   - uses the turtle to draw and fill a circle with the specified radius and colors
+     make the pen size larger for the circle border so it's easy to see the border
+   - this function must call the drawCircle function to draw the circle.
+     Don't copy code above to draw the circle.
+
+2b. Write test code to go to the fourth quadrant and draw a green circle
+    with a purple border with size 80
+
+3. Write a Python function called drawTriangle that:
+   - accepts 3 arguments:  a turtle object, a side length, and a color
+   - uses the turtle to draw the equilateral triangle (all sides are the same) 
+     with sides of the specified length and in the specified color
+ 
+3a. Write test code to set the turtle to the original position and draw 
+    a red triangle of size 20
+
+
